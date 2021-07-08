@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+.container
+{
+    display: inline-flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px;
+    border: black solid 5px;
+    border-radius: 5px;
+    background-color: moccasin;
+    font-family: 'Satisfy', cursive;
+    font-size: large;
+}
+
+main{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+a:hover{
+    color: goldenrod;
+    background-color: gold;
+}
+
+body{
+    background-image:url(/img/background-home.jpg);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+li{
+    display: inline;
+    border: solid burlywood 3px;
+    padding: 3px;
+    background-color: moccasin;
+}
+
+.tarjeta3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+

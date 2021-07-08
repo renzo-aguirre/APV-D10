@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Satisfy&display=swap');
+i{
+    font-size: 50px;
+    color: gold;
+}
+body{
+
+    background-image: url(/img/background2.jpg);
+    background-position: center;
+    background-size: auto;
+}
+
+.container
+{
+    padding: 3px;
+    margin: 5px;
+    border: black solid 5px;
+    border-radius: 5px;
+    background-color: moccasin;
+    font-family: 'Satisfy', cursive;
+    font-size: large;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    float: left;
+    width: 900px;
+}
+aside{
+    display: flex;
+    align-items: center;
+    height: max-content;
+    width: max-content;
+}
+
+
+
