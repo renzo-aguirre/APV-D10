@@ -23,7 +23,6 @@ body{
 
 
 h1{
-    display: flex;
     justify-content: center;
 }
 
@@ -39,5 +38,9 @@ aside{
     width: max-content;
 }
 
+footer{
+    display: flex;
+    justify-content: center;
+}
 
 
